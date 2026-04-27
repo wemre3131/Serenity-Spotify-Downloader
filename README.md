@@ -17,6 +17,7 @@ You must have **FFmpeg** installed and added to your system PATH.
    `pip install -r requirements.txt`
 3. Run the app:
    `python downloader.py`
+Or use the (Website)[serenity-downloader.vercel.app]
 
 ## ⚖️ Disclaimer
 This tool is for educational purposes only. Please respect the artists and only download content you have the right to access.
